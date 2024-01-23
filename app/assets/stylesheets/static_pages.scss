@@ -1,0 +1,19 @@
+// Place all the styles related to the StaticPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+input[type='checkbox'] {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+  margin-right: 10px;
+  accent-color: gray;
+}
+
+.btn {
+  background-color: lightgray !important;
+}
+
+.completed {
+  text-decoration: line-through;
+}
